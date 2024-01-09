@@ -30,7 +30,8 @@ https://www.javatpoint.com/java-while-loop
 ## Link to deployed site
 https://dijahmohammed.github.io/week-5-password/
 
-##License
+## License
+
 MIT License
 
 Copyright (c) [2023] [Khadeejat Mohammed]
